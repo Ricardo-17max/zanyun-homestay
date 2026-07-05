@@ -394,19 +394,8 @@ h3 {
   box-shadow: 0 10px 28px rgba(43, 36, 30, 0.06);
 }
 
-.facility-card > span {
-  display: inline-grid;
-  width: 32px;
-  height: 32px;
-  place-items: center;
-  border-radius: 8px;
-  background: rgba(49, 79, 58, 0.11);
-  color: var(--green);
-  font-weight: 900;
-  margin-bottom: 10px;
-}
-
 .facility-card h3 {
+  margin-top: 0;
   margin-bottom: 12px;
 }
 
